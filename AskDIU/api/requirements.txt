@@ -4,3 +4,4 @@ openai
 runpod
 pinecone
 groq
+streamlit
