@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+openai
+runpod
+pinecone
+groq
